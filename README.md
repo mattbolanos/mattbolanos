@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> <img src="wave.gif" width="30px"> Hi there!</h1>
+<h1 align="left"> <img src="wave.gif" width="30px"> Hi there!</h1>
