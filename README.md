@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p>〽️ I am currently pursuing a M.S. in Applied Data Science from the University of Michigan</p>
 
-<p>👨‍🍳 I love pushing myself to learn new programming languages and new cooking recipes</p>
+<p>👨‍🍳 I love learning new programming languages and new cooking recipes</p>
 
 
 
