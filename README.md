@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Matt Bolaños</h1>
+<h1 align="center"><img src="wave.gif" width="30px"> Matt Bolaños</h1>
 <p align='center'>
 <a href="https://twitter.com/mattabolanos"><img height="35" src="twitter_logo.png"></a>
 <a href="https://www.linkedin.com/in/mattbolanos/"><img height="35" src="linkedin_logo.png"></a>
 <a href="https://www.mattbolanos.com/"><img height="33" src="basketball_emoji.png"></a>
 </p>
 
-<p style="font-size:22px"> <img src="wave.gif" width="30px"> Hi there!</p>
+## Hi there!
 
 <p>👷 I primarily focus on building data pipelines, web applications, and basketball data visualizations</p>
 
-<p>〽️ I am currently pursuing a M.S. in Applied Data Science from the University of Michigan</p>
+<p>〽️ I'm currently pursuing a M.S. in Applied Data Science from the University of Michigan</p>
 
 <p>👨‍🍳 I love learning new programming languages and new cooking recipes</p>
 
