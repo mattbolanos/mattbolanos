@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-<p>👷 I primarily focus on building data pipelines, web applications, and basketball data visualizations</p>
+<p>👷 I primarily focus on building data pipelines, web applications, and data visualizations</p>
 
 <p>〽️ I'm currently pursuing a M.S. in Applied Data Science from the University of Michigan</p>
 
