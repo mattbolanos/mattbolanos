@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.mattbolanos.com/"><img height="33" src="basketball_emoji.png"></a>
 </p>
 
-<p style="font-size:20px;"><img src="wave.gif" width="30px" alt="👋"> Hi there!
+<p style="font-size:22px;">Hi there! <img src="wave.gif" width="18px" alt="👋"></p>
 
 <p>👷 I primarily focus on building data pipelines, web applications, and data visualizations</p>
 
