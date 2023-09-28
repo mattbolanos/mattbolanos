@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"><img src="wave.gif" width="30px" alt="👋"> Matt Bolaños</h1>
+<p align="center"><img src="wave.gif" width="30px" alt="👋"> Matt Bolaños</p>
 <p align='center'>
 <a href="https://twitter.com/mattabolanos"><img height="35" src="twitter_logo.png"></a>
 <a href="https://www.linkedin.com/in/mattbolanos/"><img height="35" src="linkedin_logo.png"></a>
