@@ -33,9 +33,9 @@
 
 <h4>Backend</h4>
 <div>
-    <img width="25" height="25" src="stack/bun.svg" alt="Bun">
-    <img width="25" height="25" src="stack/prisma.svg" alt="Prisma">
     <img width="25" height="25" src="stack/postgres.svg" alt="Postgres">
+    <img width="25" height="25" src="stack/prisma.svg" alt="Prisma">
     <img width="25" height="25" src="stack/dbt.svg" alt="DBT">
     <img width="25" height="25" src="stack/gcloud.svg" alt="GCloud">
+    <img width="25" height="25" src="stack/bun.svg" alt="Bun">
 </div>
