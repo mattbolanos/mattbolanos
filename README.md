@@ -11,7 +11,7 @@
 
 <p>👨‍💻 I currently work at the Golden State Warriors</p>
 <p>👷 I build full stack web applications and data visualizations</p>
-<p>👨‍🍳 I love learning new programming languages and cooking recipes</p>
+<p>👨‍🍳 I love learning new recipes and programming languages</p>
 
 <h3>Stack</h3>
 <h4>Core</h4>
