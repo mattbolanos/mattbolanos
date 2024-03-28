@@ -1,6 +1,5 @@
-<h1 style="display: flex; align-items: center; justify-content: center; gap: 5px;"
-align='center'>
-    <img src="react.gif" width="30px">Matt Bolaños
+<h1 align="center">
+    <img src="react.gif" width="25"> Matt Bolaños
 </h1>
 <p align='center'>
     <a href="https://www.mattbolanos.com/"><img height="33" src="slash.png"></a>
