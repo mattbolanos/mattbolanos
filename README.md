@@ -1,4 +1,5 @@
-<h1 style="display: flex; align-items: center; justify-content: center; gap: 5px;">
+<h1 style="display: flex; align-items: center; justify-content: center; gap: 5px;"
+align='center'>
     <img src="react.gif" width="30px">Matt Bolaños
 </h1>
 <p align='center'>
