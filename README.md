@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="react.gif" width="35"> Matt Bolaños
+    <img src="react.gif" width="30"> Matt Bolaños
 </h1>
 <p align='center'>
     <a href="https://www.mattbolanos.com/"><img height="33" src="slash.png"></a>
