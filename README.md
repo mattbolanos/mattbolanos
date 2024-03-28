@@ -2,9 +2,9 @@
     <img src="react.gif" width="20"> Matt Bolaños
 </h1>
 <p align='center'>
-    <a href="https://www.mattbolanos.com/"><img height="33" src="slash.png"></a>
-    <a href="https://twitter.com/mattabolanos"><img height="35" src="twitter_logo.png"></a>
-    <a href="https://www.linkedin.com/in/mattbolanos/"><img height="35" src="linkedin_logo.png"></a>
+    <a href="https://www.mattbolanos.com/"><img height="30" width="30" src="slash.png"></a>
+    <a href="https://twitter.com/mattabolanos"><img height="30" width="30" src="twitter_logo.png"></a>
+    <a href="https://www.linkedin.com/in/mattbolanos/"><img height="30" width="30" src="linkedin_logo.png"></a>
 </p>
 
 <h3>Hi There!</h3>
