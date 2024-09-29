@@ -28,7 +28,7 @@
     <img width="25" height="25" src="stack/html5.svg" alt="HTML5">
     <img width="25" height="25" src="stack/css3.svg" alt="CSS3">
     <img width="25" height="25" src="stack/tailwindcss.svg" alt="TailwindCSS">
-    <img width="25" height="25" src="stack/nextui.svg" alt="NextUI">
+    <img width="25" height="25" src="stack/shadcn.svg" alt="Shadcn">
 </div>
 
 <h4>Backend</h4>
