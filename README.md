@@ -6,7 +6,7 @@
 
 <p>👨‍💻 I currently work at the Golden State Warriors</p>
 <p>👷 I build full stack web applications and data visualizations</p>
-<p>👨‍🍳 I love learning new recipes and programming languages</p>
+<p>👨‍🍳 I love trail running and learning new recipes</p>
 
 <h3>Stack</h3>
 <h4>Core</h4>
